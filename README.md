@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erkankilic81 Erkan for izmir, Turkey.
+- 👋 Hi, I’m @erkankilic81 Erkan KILIÇ fom izmir, Turkey.
 
  - I’m very passionate about code writing and curious about trying new staff i learn about.
 
