@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @erkankilic81 Erkan KILIÇ fom izmir, Turkey.
 
- - I’m very passionate about code writing and curious about learning new things and using them immediately.
+ - I’m very passionate about code writing and curious about learning new things about software.
 
--  👀 AFter working many years as a finace assistant manager in a large company it's now time for a new challange.
- 
-  - As a result of my previous journey i have some coaching skills as well.
+-  👀 AFter working many years as a finace assistant manager in a large company it's now time for a different step.
 
   - You can 7/24 reach my e-mail adress : erkan461107@gmail.com
 -  
